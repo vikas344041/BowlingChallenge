@@ -1,6 +1,6 @@
-package com.nickskelton.bowlingscorer
+package com.vikas.bowlingChallenge
 
-import com.nickskelton.bowlingChallenge.Scorecard
+import com.vikas.bowlingChallenge.Scorecard
 import junit.framework.Assert
 import org.junit.Assert.assertEquals
 import org.junit.Test

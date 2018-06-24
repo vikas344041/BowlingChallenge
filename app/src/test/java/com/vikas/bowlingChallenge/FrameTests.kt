@@ -1,9 +1,9 @@
-package com.nickskelton.bowlingscorer
+package com.vikas.bowlingChallenge
 
-import com.nickskelton.bowlingChallenge.EndFrame
-import com.nickskelton.bowlingChallenge.NormalFrame
-import com.nickskelton.bowlingChallenge.Spare
-import com.nickskelton.bowlingChallenge.Strike
+import com.vikas.bowlingChallenge.EndFrame
+import com.vikas.bowlingChallenge.NormalFrame
+import com.vikas.bowlingChallenge.Spare
+import com.vikas.bowlingChallenge.Strike
 import junit.framework.Assert.assertFalse
 import junit.framework.Assert.assertTrue
 import org.junit.Assert.assertEquals

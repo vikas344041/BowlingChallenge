@@ -1,4 +1,4 @@
-package com.nickskelton.bowlingChallenge.help;
+package com.vikas.bowlingChallenge.help;
 
 import android.support.annotation.IdRes;
 import android.support.test.espresso.PerformException;
@@ -11,9 +11,7 @@ import android.view.View;
 import org.hamcrest.Matcher;
 import org.hamcrest.Matchers;
 
-/**
- * Created by dannyroa on 5/9/15.
- */
+
 public class TestUtil {
 
     public static <VH extends RecyclerView.ViewHolder> ViewAction actionOnItemViewAtPosition(int position,

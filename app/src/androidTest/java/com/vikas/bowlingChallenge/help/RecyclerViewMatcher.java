@@ -1,4 +1,4 @@
-package com.nickskelton.bowlingChallenge.help;
+package com.vikas.bowlingChallenge.help;
 
 import android.content.res.Resources;
 import android.support.v7.widget.RecyclerView;
@@ -7,9 +7,7 @@ import org.hamcrest.Description;
 import org.hamcrest.Matcher;
 import org.hamcrest.TypeSafeMatcher;
 
-/**
- * Created by dannyroa on 5/10/15.
- */
+
 public class RecyclerViewMatcher {
     private final int recyclerViewId;
 
