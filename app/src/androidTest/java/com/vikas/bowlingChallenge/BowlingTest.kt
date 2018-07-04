@@ -1,9 +1,10 @@
-package com.nickskelton.bowlingChallenge
+package com.vikas.bowlingChallenge
 
 import android.content.Intent
 import android.support.test.rule.ActivityTestRule
 import android.support.test.runner.AndroidJUnit4
-import com.nickskelton.bowlingChallenge.MainActivity
+import com.vikas.bowlingChallenge.BowlingRobot
+import com.vikas.bowlingChallenge.MainActivity
 import org.junit.Before
 import org.junit.Rule
 import org.junit.Test
